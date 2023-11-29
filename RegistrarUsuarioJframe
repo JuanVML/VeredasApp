@@ -1,0 +1,281 @@
+<?xml versión="1.0" codificación="UTF-8" ?>
+
+<Versión del formulario="1.3" maxVersion="1.9" tipo="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Propiedades>
+    <Nombre de propiedad="defaultCloseOperation" tipo="int" valor="3"/>
+  </Propiedades>
+  <Propiedades sintéticas>
+    <SyntheticProperty nombre="formSizePolicy" tipo="int" valor="1"/>
+    <SyntheticProperty nombre="generateCenter" tipo="boolean" valor="false"/>
+  </Propiedades sintéticas>
+  <Valores auxiliares>
+    <AuxValue nombre="FormSettings_autoResourcing" tipo="java.lang.Integer" valor="0"/>
+    <AuxValue nombre="FormSettings_autoSetComponentName" tipo="java.lang.Boolean" valor="false"/>
+    <AuxValue nombre="FormSettings_generateFQN" tipo="java.lang.Boolean" valor="true"/>
+    <AuxValue nombre="FormSettings_generateMnemonicsCode" tipo="java.lang.Boolean" valor="false"/>
+    <AuxValue nombre="FormSettings_i18nAutoMode" tipo="java.lang.Boolean" valor="false"/>
+    <AuxValue nombre="FormSettings_layoutCodeTarget" tipo="java.lang.Integer" valor="1"/>
+    <AuxValue nombre="FormSettings_listenerGenerationStyle" tipo="java.lang.Integer" valor="0"/>
+    <AuxValue nombre="FormSettings_variablesLocal" tipo="java.lang.Boolean" valor="false"/>
+    <AuxValue nombre="FormSettings_variablesModifier" tipo="java.lang.Integer" valor="2"/>
+    <AuxValue nombre="designerSize" tipo="java.awt.Dimension" valor="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114 , -39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-9,0,0,3,-77 "/>
+  </ValoresAux>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Nombre de propiedad="useNullLayout" tipo="booleano" valor="false"/>
+  </Diseño>
+  <Subcomponentes>
+    <Contenedor clase="javax.swing.JPanel" nombre="jPanel1">
+      <Propiedades>
+        <Nombre de propiedad="fondo" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color azul="33" verde="33" rojo="33" tipo="rgb"/>
+        </Propiedad>
+      </Propiedades>
+      <Restricciones>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <Restricciones Absolutas x="0" y="0" ancho="950" alto="500"/>
+        </restricción>
+      </Restricciones>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Nombre de propiedad="useNullLayout" tipo="booleano" valor="false"/>
+      </Diseño>
+      <Subcomponentes>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel1">
+          <Propiedades>
+            <Nombre de propiedad="fondo" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="0" rojo="0" tipo="rgb"/>
+            </Propiedad>
+          </Propiedades>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="70" ancho="170" alto="380"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel2">
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="60" y="110" ancho="100" alto="90"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel3">
+          <Propiedades>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font nombre="Baiti mongol" tamaño="24" estilo="0"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Property name="text" type="java.lang.String" value="Contraseña:"/>
+          </Propiedades>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="210" y="220" ancho="200" alto="60"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JSeparator" nombre="jSeparator1">
+          <Propiedades>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+          </Propiedades>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="340" y="280" ancho="300" alto="20"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JTextField" nombre="jtxtnuevousu">
+          <Propiedades>
+            <Nombre de propiedad="fondo" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="33" verde="33" rojo="33" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Fuente nombre="Segoe UI" tamaño="18" estilo="0"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Información de borde="null"/>
+            </Propiedad>
+          </Propiedades>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="340" y="130" ancho="300" alto="40"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JSeparator" nombre="jSeparator2">
+          <Propiedades>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+          </Propiedades>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="340" y="170" ancho="300" alto="20"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JButton" nombre="jButton1">
+          <Propiedades>
+            <Nombre de propiedad="fondo" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="33" rojo="33" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font nombre="Lucida Fax" tamaño="14" estilo="1"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="texto" tipo="java.lang.String" valor="Continuar"/>
+          </Propiedades>
+          <Eventos>
+            <EventHandler event="actionPerformed" escucha="java.awt.event.ActionListener" parámetros="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Eventos>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="400" y="330" ancho="200" alto="50"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel4">
+          <Propiedades>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Fuente nombre="Roboto" tamaño="24" estilo="0"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Property name="text" type="java.lang.String" value="Registrarse"/>
+          </Propiedades>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="250" y="30" ancho="200" alto="60"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel5">
+          <Propiedades>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font nombre="Baiti mongol" tamaño="24" estilo="0"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="texto" tipo="java.lang.String" valor="Usuario :"/>
+          </Propiedades>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <Restricciones Absolutas x="230" y="120" ancho="200" alto="60"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel6">
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="740" y="-20" width="270" height="190"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel7">
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="730" y="320" ancho="150" alto="130"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel8">
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="800" y="370" ancho="150" alto="130"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JLabel" nombre="jLabel9">
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="690" y="280" ancho="150" alto="130"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JPasswordField" nombre="jpsContranueva">
+          <Propiedades>
+            <Nombre de propiedad="fondo" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="33" verde="33" rojo="33" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Fuente nombre="Roboto" tamaño="18" estilo="0"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="alineaciónhorizontal" tipo="int" valor="0"/>
+            <Nombre de propiedad="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Información de borde="null"/>
+            </Propiedad>
+          </Propiedades>
+          <Eventos>
+            <EventHandler event="mousePressed" escucha="java.awt.event.MouseListener" parámetros="java.awt.event.MouseEvent" handler="jpsContranuevaMousePressed"/>
+          </Eventos>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="350" y="240" ancho="270" alto="40"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JButton" nombre="jButton2">
+          <Propiedades>
+            <Nombre de propiedad="fondo" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="cc" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Fuente nombre="Roboto" tamaño="18" estilo="0"/>
+            </Propiedad>
+            <Nombre de propiedad="icon" tipo="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" nombre="/image/volver.png"/>
+            </Propiedad>
+            <Nombre de propiedad="texto" tipo="java.lang.String" valor="Volver"/>
+          </Propiedades>
+          <Eventos>
+            <EventHandler event="actionPerformed" escucha="java.awt.event.ActionListener" parámetros="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Eventos>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="180" y="420" ancho="160" alto="50"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+        <Componente clase="javax.swing.JButton" nombre="jButton3">
+          <Propiedades>
+            <Nombre de propiedad="fondo" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="0" verde="0" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Fuente nombre="Roboto" tamaño="14" estilo="0"/>
+            </Propiedad>
+            <Nombre de propiedad="primer plano" tipo="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color azul="ff" verde="ff" rojo="ff" tipo="rgb"/>
+            </Propiedad>
+            <Nombre de propiedad="texto" tipo="java.lang.String" valor="SALIR"/>
+          </Propiedades>
+          <Eventos>
+            <EventHandler event="actionPerformed" escucha="java.awt.event.ActionListener" parámetros="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+          </Eventos>
+          <Restricciones>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="430" y="400" width="130" height="50"/>
+            </restricción>
+          </Restricciones>
+        </Componente>
+      </SubComponentes>
+    </Contenedor>
+  </SubComponentes>
+</formulario>
